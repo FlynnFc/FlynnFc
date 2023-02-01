@@ -4,6 +4,7 @@
 <p>Welcome to my page! </br> I'm Flynn, A Frontend Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197589.png" width="13"/> <b>Wellington, New Zealand </b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>Canterbury, England</b>. </p>
 <h3>Things I code with</h3>
 <p>
+    <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-circle&logo=next.js&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
