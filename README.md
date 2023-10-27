@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi!</h1>
 
 
-<p>Welcome to my page! </br> I'm Flynn, A Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197589.png" width="13"/> <b>Wellington, New Zealand </b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>Canterbury, England</b>. </p>
+<p>Welcome to my page! </br> I'm Flynn, a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197589.png" width="13"/> <b>Wellington, New Zealand </b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>Canterbury, England</b>. </p>
 <h3>Things I code with</h3>
 <p>
     <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-circle&logo=next.js&logoColor=white" />
