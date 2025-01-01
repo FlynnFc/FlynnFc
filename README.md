@@ -5,9 +5,9 @@
 <h3>Things I code with</h3>
 <p>
 
-    <img alt="Go" src="https://img.shields.io/badge/-Go-5dc9e2?style=flat-square&logo=go&logoColor=white" />
-    <img alt="Rust" src="https://img.shields.io/badge/-Rust-B94700?style=flat-square&logo=Rust&logoColor=white" />
-    <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-circle&logo=next.js&logoColor=white" />
-   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+ <img alt="Go" src="https://img.shields.io/badge/-Go-5dc9e2?style=flat-square&logo=go&logoColor=white" />
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-B94700?style=flat-square&logo=Rust&logoColor=white" />
+<img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-circle&logo=next.js&logoColor=white" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
 </p>
